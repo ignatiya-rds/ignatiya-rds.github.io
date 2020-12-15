@@ -538,12 +538,16 @@ ul#nav li.current a { color: #F06000; }
 	margin-bottom: 12px;
    color: #111;
 }
+.popup-modal .description-box-caption h4 {
+   font: 15px/24px 'opensans-bold', sans-serif;
+	margin-bottom: 12px;
+   color: #111;
+}
 .popup-modal .description-box p {
 	font: 14px/24px 'opensans-regular', sans-serif;
    color: #A1A1A1;
    margin-bottom: 12px;
 }
-/*Tiffany's Addition*/
 .popup-modal .description-box-caption .caption {
 	 font: 11px/21px 'opensans-regular', sans-serif;
    color: #A1A1A1;
