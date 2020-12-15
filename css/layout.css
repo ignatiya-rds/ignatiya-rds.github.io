@@ -554,7 +554,7 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 12px;
 }
 .popup-modal .description-box-caption small {
-	 font: 'opensans-regular', sans-serif;
+	 font-family: 'opensans-regular', sans-serif;
    color: #A1A1A1;
    margin-bottom: 12px;
 }
