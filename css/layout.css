@@ -553,7 +553,7 @@ ul#nav li.current a { color: #F06000; }
    color: #A1A1A1;
    margin-bottom: 12px;
 }
-.popup-modal .description-box-caption .caption {
+.popup-modal .description-box-caption small {
 	 font: 'opensans-regular', sans-serif;
    color: #A1A1A1;
    margin-bottom: 12px;
