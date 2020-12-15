@@ -4131,6 +4131,7 @@ readers do not read off random characters that represent icons */
 .fa-twitter:before {
   content: "\f099";
   font-weight: 900;
+  font-family: "Font Awesome 5 Free";
 }
 
 .fa-twitter-square:before {
